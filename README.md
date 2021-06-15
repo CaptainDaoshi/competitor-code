@@ -1,5 +1,5 @@
-# competitor-code
-A repo for all competitors of Hackday2021 to upload their source code.
+# 选手代码Repo
+请所有选手按如下规则将源码上传至此repo
 
 ## 提交规则
 * 每组在此目录下新建一个目录并命名为组名+作品名
