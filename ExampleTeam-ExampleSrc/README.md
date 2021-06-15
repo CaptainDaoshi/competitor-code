@@ -4,7 +4,7 @@
 
 ## 代码架构
 
-略
+* example.py - hello world
 
 ## 私人Repo链接
 
